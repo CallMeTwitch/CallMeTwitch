@@ -10,7 +10,7 @@
   <br>
   🔭 I’m currently working on... A Neural Network Zoo that only uses NumPy!
   <br>
-  💻 I want to study... Artifical Intelligence!
+  💻 I want to study... Mathematics & Artifical Intelligence!
   <br>
   🌱 I’m currently learning... Common Lisp!
   <br>
