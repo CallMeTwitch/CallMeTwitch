@@ -45,7 +45,7 @@
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/CallMeTwitch/Plug_N_Play_RL" title="Plug_N_Play_RL"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=CallMeTwitch&repo=Plug_N_Play_RL&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/CallMeTwitch/RubiksCubeSolver" title="RubiksCubeSolver"><img align="right" height="115" width="600" src="https://github-readme-stats.vercel.app/api/pin/?username=CallMeTwitch&repo=RubiksCubeSolver&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/CallMeTwitch/RubiksCubeSolver" title="RubiksCubeSolver"><img align="right" height="115" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=CallMeTwitch&repo=RubiksCubeSolver&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br><br><br><br><br><br>
 <h4 align="center">
