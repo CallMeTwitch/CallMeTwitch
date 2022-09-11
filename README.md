@@ -4,6 +4,17 @@
   </a>
 </h1>
 
+<p align="center">
+  Hi, I'm Gavin, a Computer Science student at Memorial University of Newfoundland
+  <br>
+  <br>
+  🔭 I’m currently working on... A Neural Network Zoo that only uses NumPy!
+  <br>
+  🌱 I’m currently learning... Common Lisp!
+  <br>
+  📫 How to reach me: <a href="mailto: glhull04@gmail.com">glhull04@gmail.com.com</a>
+</p>
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <p align=center>
   <div align=center>
