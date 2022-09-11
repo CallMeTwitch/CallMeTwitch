@@ -37,6 +37,17 @@
   <br>
 </p>
 
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/CallMeTwitch/CodeGolf" title="CodeGolf"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=CallMeTwitch&repo=CodeGolf&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/CallMeTwitch/MATE-ROV" title="MATE-ROV"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=CallMeTwitch&repo=MATE-ROV&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/CallMeTwitch/Plug_N_Play_RL" title="Plug_N_Play_RL"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=CallMeTwitch&repo=Plug_N_Play_RL&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/CallMeTwitch/RubiksCubeSolver" title="RubiksCubeSolver"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=CallMeTwitch&repo=RubiksCubeSolver&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CallMeTwitch&&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CallMeTwitch&theme=react)](https://github.com/anuraghazra/github-readme-stats)
