@@ -15,7 +15,7 @@
   🌱 I’m currently learning... Common Lisp!
   <br>
   <br>
-  📫 How to reach me: <a href="mailto: glhull04@gmail.com">glhull04@gmail.com.com</a>
+  📫 How to reach me: <a href="mailto: glhull04@gmail.com">glhull04@gmail.com</a>
 </p>
 
 <h2 align="center">⚡ Stats ⚡</h2>
