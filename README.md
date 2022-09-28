@@ -48,6 +48,15 @@
   <a align="right" href="https://github.com/CallMeTwitch/Plug_N_Play_RL" title="Plug & Play Reinforcement Learning"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=CallMeTwitch&repo=Plug_N_Play_RL&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br><br><br><br><br><br>
+
+
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/CallMeTwitch/Neural-Network-Zoo" title="Neural Network Zoo"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=CallMeTwitch&repo=Neural-Network-Zoo&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/CallMeTwitch/Password-Manager" title="Kerberos Password Manager"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=CallMeTwitch&repo=Password-Manager&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br><br><br><br><br><br>
+
+
 <h4 align="center">
   <a href="https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
