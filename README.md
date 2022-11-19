@@ -19,8 +19,8 @@
 </p>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-![](https://komarev.com/ghpvc/?username=CallMeTwitch&color=grey)
 <p align=center>
+  ![](https://komarev.com/ghpvc/?username=CallMeTwitch&color=blue)
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=CallMeTwitch&theme=react&border=61dafb&hide_border=true" alt="CallMeTwitch" />
