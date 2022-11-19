@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome!+👋;My+name+is+Gavin;but+my+friends...;CallMeTwitch!&center=true&size=30">
   </a>
 </h1>
-
+![](https://komarev.com/ghpvc/?username=CallMeTwitch&color=blue)
 <p align="center">
   Hi, I'm Gavin, a Computer Science student at Memorial University of Newfoundland
   <br>
@@ -20,7 +20,6 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <p align=center>
-  ![](https://komarev.com/ghpvc/?username=CallMeTwitch&color=blue)
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=CallMeTwitch&theme=react&border=61dafb&hide_border=true" alt="CallMeTwitch" />
