@@ -4,6 +4,8 @@
   </a>
 </h1>
 
+![](https://komarev.com/ghpvc/?username=CallMeTwitch&color=blue)
+
 <p align="center">
   Hi, I'm Gavin, a Computer Science student at Memorial University of Newfoundland
   <br>
