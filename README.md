@@ -4,8 +4,6 @@
   </a>
 </h1>
 
-![](https://komarev.com/ghpvc/?username=CallMeTwitch&color=blue)
-
 <p align="center">
   Hi, I'm Gavin, a Computer Science student at Memorial University of Newfoundland
   <br>
@@ -21,6 +19,7 @@
 </p>
 
 <h2 align="center">⚡ Stats ⚡</h2>
+![](https://komarev.com/ghpvc/?username=CallMeTwitch&color=grey)
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
